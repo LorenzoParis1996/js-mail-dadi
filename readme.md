@@ -16,7 +16,9 @@ Mail
 Chiedi all’utente la sua email,
 controlla che sia nella lista di chi può accedere,
 stampa un messaggio appropriato sull’esito del controllo.
+- creo una variabile che chiede la mail
+- creo un array (lista con contenuti) con delle mail utente dentro
+- scrivo le condizioni per controllare se l utente può accedere o no
+
 Saltare a piè dispari [Bonus]
-
-
 Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è pari inseriscilo nell’array
