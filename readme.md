@@ -7,9 +7,12 @@ Gioco dei dadi
 Il giocatore gioca contro il computer.
 Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
+- creo due variabili per il giocatore umano e giocatore macchina(alla macchina viene assegnato un valore randomico)
+- creo il ciclo for, in modo che iteri da 1 a 6
+- scrivo le condizioni di vincita
+
+
 Mail
-
-
 Chiedi all’utente la sua email,
 controlla che sia nella lista di chi può accedere,
 stampa un messaggio appropriato sull’esito del controllo.
